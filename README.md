@@ -1,4 +1,5 @@
 🎯 Student Performance Prediction – End-to-End ML Pipeline
+
 📌 Project Overview
 This project is an end-to-end machine learning pipeline that predicts student performance scores based on demographic and academic features such as gender, parental education level, lunch type, and test preparation completion.
 
@@ -51,6 +52,7 @@ ML_Projects/
 ├── requirements.txt        # Dependencies
 ├── setup.py                # Package configuration
 └── README.md               # Project documentation
+
 📊 Dataset
 Source: Custom CSV (stud.csv)
 Rows: 1,000 | Columns: 8
